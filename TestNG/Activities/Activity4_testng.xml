@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Suit 1">
+    <test name="Selenium Test 1" >
+        <classes>
+            <class name="Activity4_DemoOne"/>
+            <class name="Activity4_DemoTwo"/>
+        </classes>
+    </test>
+</suite>

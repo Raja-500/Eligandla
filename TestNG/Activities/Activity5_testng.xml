@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Suit 1">
+    <test name="Selenium Test 1" >
+        <groups>
+            <run>
+                <include name="HeaderTests" />
+<!--                <exclude name ="headertest" />-->
+            </run>
+        </groups>
+        <classes>
+            <class name="Activity5"/>
+        </classes>
+    </test>
+</suite>

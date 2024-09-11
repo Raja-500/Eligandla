@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Suit 1">
+    <test name="Selenium Test 1" >
+        <parameter name = "sUsername" value = "admin"/>
+        <parameter name = "sPassword" value= "password"/>
+        <classes>
+            <class name="Activity6"/>
+        </classes>
+    </test>
+</suite>
