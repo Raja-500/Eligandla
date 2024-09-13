@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="Selenium Suit 1" parallel="classes" >
-    <test name="Selenium Test 1" >
-        <classes>
-            <class name="Activity10"/>
-        </classes>
-    </test>
-</suite>
